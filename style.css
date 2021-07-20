@@ -510,7 +510,11 @@ nav ul li a:hover {
     }
 
     .foto img {
-        width: 200px;
+        width: 170px;
+    }
+
+    .text article p {
+        font-size: 0.9em;
     }
 
     .skills-container-column {

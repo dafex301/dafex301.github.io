@@ -536,4 +536,9 @@ nav ul li a:hover {
     .about-text {
         font-size: 0.8em;
     }
+    
+    .contact {
+        width: 150px;
+        margin: 10px auto;
+    }
 }
